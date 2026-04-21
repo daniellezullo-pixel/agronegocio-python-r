@@ -35,5 +35,5 @@ O projeto simula o controle de irrigação no agronegócio, permitindo organizar
 
 ## 👩‍💻 Autora
 
-Dani Zullo  
+Danielle Zullo  
 RM: 571880
