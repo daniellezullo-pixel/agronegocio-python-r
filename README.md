@@ -20,6 +20,7 @@ Foi desenvolvido um mini sistema que permite:
 - Registrar níveis de irrigação (Alto, Médio, Baixo)
 - Listar os dados cadastrados
 - Salvar os dados em arquivo JSON
+- Os dados são armazenados em formato JSON, simulando um banco de dados.
 
 ## 🌱 Contexto do Problema
 
